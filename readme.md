@@ -1,6 +1,6 @@
 # BitTools
 
-Lean Pool is a Utility for manipulating byte/bit streams in .NET
+BitTools is a Utility for manipulating byte/bit streams in .NET
 
 The original Asset from is [here](https://github.com/fholm/unityassets/tree/old)
 
